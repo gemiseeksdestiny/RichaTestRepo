@@ -1,0 +1,11 @@
+dev.decorist.com-> AWS---> code repo-jdango
+merge->release branch- dev env-> release
+
+devdashboard.decorist.com-> GCP-> dev branch-- code repo- MS dashboard front( prod too)
+main --- Merge
+
+API is common between both.. Dev.decorist.com/devdashboard.decorist.com
+if API changes.. release branch deploys to both else only devdashbaord.
+
+main branch
+
