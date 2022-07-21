@@ -1,0 +1,8 @@
+Notification Emails-- Coming from SES- Plain text only
+Transactional Emails-- Coming from Campaign Monitor, having logos/images also.
+
+Transaction emails- e.g. Project Purchase.
+
+Transaction emails mostly coming from: Designservices.
+
+Notification emails- from Decorist Admin <support@decorist.com>
